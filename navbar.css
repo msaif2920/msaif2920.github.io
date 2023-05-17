@@ -1,0 +1,18 @@
+#navbar {
+}
+
+.navbar {
+  background-color: #323232;
+}
+
+.navbar > li {
+  list-style-type: none;
+  display: flex;
+  margin-left: 10%;
+  margin-right: 8px;
+  color: white;
+  font-weight: bold;
+  font-family: raleway;
+  font-size: 120%;
+  cursor: pointer;
+}

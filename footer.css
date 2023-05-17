@@ -1,0 +1,37 @@
+footer {
+  width: 100vw;
+  height: fit-content;
+  background-color: #1d232b;
+  margin-top: 0px;
+}
+
+.icons {
+  color: green;
+  text-align: center;
+  font-size: 2rem;
+}
+
+.icons > a {
+  color: green;
+}
+
+.icons > a:visited {
+  color: green;
+}
+
+.icons > a > i {
+  margin: 20px;
+  cursor: pointer;
+}
+
+footer > p {
+  color: White;
+  text-align: center;
+  font-family: "poppins";
+  font-size: 15px;
+  margin-bottom: 0px;
+}
+
+footer > p > span {
+  color: #931e49;
+}
